@@ -18,10 +18,10 @@ main:
     url: /portfolio/
         
   - title: "conference"
-    url: /conference/
+    url: /year-archive/
     
   - title: "activity"
-    url: /drafts/
+    url: /cv/
     
   - title: "Guide"
     url: /markdown/
