@@ -9,10 +9,10 @@ main:
     url: /publications/
 
   - title: "Members"
-    url: /Members/    
+    url: /talks/    
 
   - title: "Research"
-    url: /Research/    
+    url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
@@ -21,7 +21,7 @@ main:
     url: /conference/
     
   - title: "activity"
-    url: /activity/
+    url: /drafts/
     
   - title: "Guide"
     url: /markdown/
