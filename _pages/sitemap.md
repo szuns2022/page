@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-#Journal Articles
+Journal Articles
 
 Published in 2025
 
