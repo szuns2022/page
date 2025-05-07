@@ -1,3 +1,6 @@
+---
+permalink: /sitemap/
+
 Journal Articles
 
 Published in 2025
