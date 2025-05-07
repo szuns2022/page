@@ -9,7 +9,7 @@ main:
     url: /sitemap/
 
   - title: "Members"
-    url: /members/    
+    url: /markdown/    
 
   - title: "Research"
     url: /non-menu-page/    
