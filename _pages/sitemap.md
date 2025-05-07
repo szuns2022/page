@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Activity"
 permalink: /sitemap/
 author_profile: true
 redirect_from:
@@ -8,7 +7,7 @@ redirect_from:
 ---
 
 
-Journal Articles
+#Journal Articles
 
 Published in 2025
 
