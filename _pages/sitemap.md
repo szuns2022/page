@@ -1,5 +1,12 @@
 ---
+layout: archive
+title: "Activity"
 permalink: /sitemap/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 
 Journal Articles
 
