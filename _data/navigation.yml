@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /Publication/
+    url: /markdown/
 
   - title: "Members"
     url: /members/    
