@@ -18,7 +18,7 @@ main:
     url: /portfolio/
         
   - title: "conference"
-    url: /year-archive/
+    url: /archive-layout-with-content/
     
   - title: "activity"
     url: /cv/
