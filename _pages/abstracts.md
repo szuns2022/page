@@ -1,7 +1,7 @@
 ---
-title: "conference"
+title: "Abstracts"
 layout: archive
-permalink: /conference/
+permalink: /abstracts/
 ---
 
 recent meetings and discussions
