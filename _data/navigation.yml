@@ -6,10 +6,10 @@
 
 main:
   - title: "Publications"
-    url: /sitemap/
+    url: /publications/
 
   - title: "Members"
-    url: /markdown/    
+    url: /members/    
 
   - title: "Research"
     url: /research/    
