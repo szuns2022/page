@@ -1,5 +1,5 @@
 ---
-permalink: /non-menu-page/
+permalink: /research/
 title: "Research"
 author_profile: true
 redirect_from: 
