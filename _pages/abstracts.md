@@ -4,13 +4,10 @@ layout: archive
 permalink: /abstracts/
 ---
 
-recent meetings and discussions
 ## lists
 
-| name             | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| yx               | 2025.5.7   |                          |
-|                  | 2025.5.8   |                          |
-|                  | 2025.5.9   |                          |
-
-
+5/8 Thursday
+09:20 - 10:00 
+Title 
+Speaker 
+Abstract 
