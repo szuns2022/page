@@ -12,13 +12,13 @@ main:
     url: /markdown/    
 
   - title: "Research"
-    url: /non-menu-page/    
+    url: /research/    
     
   - title: "Portfolio"
     url: /portfolio/
         
   - title: "conference"
-    url: /archive-layout-with-content/
+    url: /conference/
     
   - title: "activity"
     url: /activity/
