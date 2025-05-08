@@ -10,7 +10,10 @@ main:
     
   - title: "Program"
     url: /program/
-
+    
+  - title: "conference"
+    url: /conference/
+    
   - title: "Publications"
     url: /publications/
 
@@ -22,9 +25,6 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "conference"
-    url: /conference/
     
   - title: "activity"
     url: /activity/
