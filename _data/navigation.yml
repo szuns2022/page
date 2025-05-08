@@ -11,8 +11,8 @@ main:
   - title: "Program"
     url: /program/
     
-  - title: "conference"
-    url: /conference/
+  - title: "Abstracts"
+    url: /abstracts/
     
   - title: "Publications"
     url: /publications/
