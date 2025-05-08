@@ -1,5 +1,5 @@
 ---
 title: "余鑫"
-excerpt: "the most gorgeous person<br/><img src='/images/yx.png'>"
+excerpt: "the most gorgeous person<br/><yx.png>"
 collection: portfolio
 ---
