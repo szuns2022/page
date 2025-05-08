@@ -1,7 +1,7 @@
 ---
 title: "conference"
 layout: archive
-permalink: /archive-layout-with-content/
+permalink: /conference/
 ---
 
 recent meetings and discussions
