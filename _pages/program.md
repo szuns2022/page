@@ -15,11 +15,10 @@ author_profile: true
 
 [Afternoon] 
 | Time             | Content                                 |       Subject          |             Speakers                             |
-| --------         |-----------------------------------------|---------------------- | ----------------------                           |
+| --------         |---------|----------------------  | ----------------------                           |
 | 12:30 - 14:00    | Lunch                                   |                        |                            |
 | 14:30 - 17:30    | Multi-layer network                     |Theoretical Lecture     | Yamir Moreno Vega (Zaragoza）                    |
 
----
 
 9/2 Tuesday
 
