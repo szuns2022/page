@@ -15,6 +15,7 @@ author_profile: true
 | 09:00 - 12:00    | Introduction to Advanced Networks       |Theoretical Lecture     | Alejandro Tejedor Cubero (Zaragoza)              |
 
 [Afternoon] 
+
 | Time             | Content                                 |       Subject          |             Speakers                             |
 | --------         |---------|----------------------  | ----------------------                           |
 | 12:30 - 14:00    | Lunch                                   |                        |                            |
@@ -24,11 +25,13 @@ author_profile: true
 9/2 Tuesday
 
 [Morning] 
+
 | Time             | Content                                   |       Subject          |             Speakers                              |
 | --------         | ------                                    | ---------------------- | ----------------------                            |
 | 09:00 - 12:00    | Elements of data science and visualization|Lecture on Numerical Computation|Ariadna Fosch I Muntané, Pietro Traversa(Zaragoza)|
  
 [Afternoon] 
+
 | Time             | Content                                 |       Subject            |             Speakers                             |
 | --------         | ------                                  | ----------------------   | ----------------------                           |
 | 12:30 - 14:00    | Lunch                                   |                          |  |
@@ -38,11 +41,13 @@ author_profile: true
 9/3 Wednesday
 
 [Morning] 
+
 | Time             | Content                                   |       Subject          |             Speakers                              |
 | --------         | ------                                    | ---------------------- | ----------------------                            |
 | 9:00 - 12:00     | Lecture on Dynamic Processes              |Lecture on Numerical Computation   | Marco Fernández da Silva, Pietro Traversa(Zaragoza)|
  
 [Afternoon] 
+
 | Time             | Content                                 |       Subject          |             Speakers                             |
 | --------         | ------                                  | ---------------------- | ----------------------                           |
 | 12:30 - 14:00    | Lunch                                   |                        |  |
