@@ -9,7 +9,7 @@ Aim
 In order to study the cutting-edge technologies, development trends and research hotspots of network science, Xiangrong Wang led and organized the 2025 International Workshop on Theoretical and Practical challenges in network science in Shenzhen University.Seven foreign experts and several well-known domestic scholars, totaling about 100 people, were invited to participate in the conference, providing a platform for discussions on network science theory and practice
 
 
-
+---
 
 Topic
 ======
