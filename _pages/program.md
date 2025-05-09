@@ -12,12 +12,15 @@ author_profile: true
 08:30 - 09:00 
 
 Content: Opening Ceremony
+
 Speakers: Wu Zongze, Wang Xiangrong (Shenzhen University)
 
 09:00 - 12:00 
 
 Content: Introduction to Advanced Networks
+
 Subject: Theoretical Lecture
+
 Speaker: Alejandro Tejedor Cubero (Zaragoza)
 
 [Afternoon] 
@@ -29,5 +32,7 @@ Content: Lunch
 14:30 - 17:30 
 
 Content: Multi-layer network
+
 Subject: Theoretical Lecture
+
 Speaker: Yamir Moreno Vega (Zaragoza）
