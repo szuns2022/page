@@ -7,17 +7,29 @@ author_profile: true
 ![ProgramTable_final(1)](https://github.com/user-attachments/assets/922f0f43-31ec-4239-97d7-653d7a0e6fef)
 
 
-5/8 Thursday
+9/1 Monday
 
 [Morning] 
 
-09:20 - 10:00 
+08:30 - 09:00 
 
-10:00 - 10:40 
+Content: Opening Ceremony
+Speakers: Wu Zongze, Wang Xiangrong (Shenzhen University)
+
+09:00 - 12:00 
+
+Content: Introduction to Advanced Networks
+Subject: Theoretical Lecture
+Speaker: Alejandro Tejedor Cubero (Zaragoza)
 
 [Afternoon] 
 
-14:30 - 15:10 
+12:30 - 14:00 
 
-15:10 - 15:50 
+Content: Lunch
 
+14:30 - 17:30 
+
+Content: Multi-layer network
+Subject: Theoretical Lecture
+Speaker: Yamir Moreno Vega (Zaragoza）
