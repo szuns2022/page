@@ -8,6 +8,7 @@ author_profile: true
 9/1 Monday
 
 [Morning] 
+
 | Time             | Content                                 |       Subject          |             Speakers                             |
 | --------         | ------                                  | ---------------------- | ----------------------                           |
 | 08:30 - 09:00    | Opening Ceremony                        |                        | Wu Zongze, Wang Xiangrong (Shenzhen University)  |
