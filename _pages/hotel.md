@@ -1,6 +1,6 @@
 ---
-permalink: /research/
-title: "Research"
+permalink: /hotel/
+title: "Hotel"
 author_profile: true
 redirect_from: 
   - "/nmp/"
@@ -11,5 +11,3 @@ target 1
 ======
 
 
-target 2
-======
