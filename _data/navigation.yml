@@ -20,9 +20,6 @@ main:
   - title: "Hotel/Transportation"
     url: /hotel/transportation/    
     
-  - title: "Contact"
-    url: /contact/
-
   - title: "Register"
     url: /register/
     
