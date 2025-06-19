@@ -16,15 +16,15 @@ main:
     
   - title: "Abstracts"
     url: /abstracts/
-    
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Hotel"
-    url: /hotel/    
+  - title: "Hotel/Transportation"
+    url: /hotel/transportation/    
     
-  - title: "Transportation"
-    url: /transportation/
+  - title: "Contact"
+    url: /contact/
+
+  - title: "Register"
+    url: /register/
     
   - title: "Activity"
     url: /activity/
