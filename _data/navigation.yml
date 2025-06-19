@@ -11,7 +11,7 @@ main:
   - title: "Organization"
     url: /organization/    
     
-    - title: "Program"
+  - title: "Program"
     url: /program/
     
   - title: "Abstracts"
