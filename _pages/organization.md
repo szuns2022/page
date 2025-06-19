@@ -1,8 +1,5 @@
 ---
-layout: archive
-title: "organization introduction"
 permalink: /organization/
+title: "Organization Introduction"
 author_profile: true
-redirect_from:
-  - /resume
 ---
