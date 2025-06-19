@@ -8,7 +8,10 @@ main:
   - title: "Home"
     url: /home/
     
-  - title: "Program"
+  - title: "Organization"
+    url: /organization/    
+    
+    - title: "Program"
     url: /program/
     
   - title: "Abstracts"
@@ -17,15 +20,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Members"
-    url: /members/    
-
-  - title: "Research"
-    url: /research/    
+  - title: "Hotel"
+    url: /hotel/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Transportation"
+    url: /transportation/
     
-  - title: "activity"
-    url: /activity/
+  - title: "Register"
+    url: /register/
     
