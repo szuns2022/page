@@ -7,7 +7,7 @@ author_profile: true
 Aim
 ======
 
-In order to study the cutting-edge technologies, development trends and research hotspots of network science, Xiangrong Wang led and organized the 2025 International Workshop on Theoretical and Practical challenges in network science in Shenzhen University.Seven foreign experts and several well-known domestic scholars, totaling about 100 people, were invited to participate in the conference, providing a platform for discussions on network science theory and practice
+In order to study the cutting-edge technologies, development trends and research hotspots of network science, Xiangrong Wang[https://xiangrongwang.github.io/] and Yamir Moreno[https://cosnet.bifi.es/people/yamir-moreno/]led and organized the 2025 International Workshop on Theoretical and Practical challenges[https://szuns2022.github.io/page/home/] in network science in Shenzhen University. Six foreign experts and several well-known domestic scholars, totaling about 100 people, were invited to participate in the conference, providing a platform for discussions on network science theory and practice
 
 
 
@@ -33,7 +33,7 @@ Invited speakers
 ======
 Yamir Moreno Vega（Zaragoza，Spain）
 
-Ariadna  Fosch iMuntané (Zaragoza，Spain)
+Ariadna  Fosch Muntané (Zaragoza，Spain)
 
 Alberto Aleta Casas (Zaragoza，Spain)
 
@@ -42,5 +42,3 @@ Pietro Traversa (Zaragoza，Italy)
 Alejandro Tejedor Cubero (Zaragoza，Spain)
 
 Marco Fernández da Silva (Zaragoza，Spain)
-
-Yibin Tian (Shenzhen university, USA)
