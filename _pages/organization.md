@@ -6,10 +6,15 @@ author_profile: true
 
 Organizers: 
 Yamir Moreno (Zaragoza University)
+
 Xiangrong Wang (Shenzhen University)
+
 Hongyu Hu (Shenzhen University)
+
 Xin Yu (Shenzhen University)
+
 Jieyu Zhu (Shenzhen University)
+
 Hao Jiang (Shenzhen University)
 
 sponsor:[shenzhen university](https://www.szu.edu.cn/)
