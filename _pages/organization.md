@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 Organizers:
-Yamir Moreno (Zaragoza University)" "
+
+Yamir Moreno (Zaragoza University)
 
 Xiangrong Wang (Shenzhen University)
 
