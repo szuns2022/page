@@ -4,6 +4,14 @@ title: "Organization Introduction"
 author_profile: true
 ---
 
+Organizers: 
+Yamir Moreno (Zaragoza University)
+Xiangrong Wang (Shenzhen University)
+Hongyu Hu (Shenzhen University)
+Xin Yu (Shenzhen University)
+Jieyu Zhu (Shenzhen University)
+Hao Jiang (Shenzhen University)
+
 sponsor:[shenzhen university](https://www.szu.edu.cn/)
 
 <img width="596" alt="1055f9e0cbf6d2e3bfe9f7b55ae2e79" src="https://github.com/user-attachments/assets/0dbd2069-3d2d-4a80-9dc6-3dc67dbe1bf6" />
