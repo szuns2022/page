@@ -4,8 +4,8 @@ title: "Organization Introduction"
 author_profile: true
 ---
 
-Organizers: __
-Yamir Moreno (Zaragoza University)__
+Organizers:
+Yamir Moreno (Zaragoza University)" "
 
 Xiangrong Wang (Shenzhen University)
 
