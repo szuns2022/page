@@ -4,6 +4,7 @@ title: "Program"
 author_profile: true
 ---
 
+![d7515cb1cd091749fb67c118df487b4](https://github.com/user-attachments/assets/4e51bf88-fd2d-4dcd-b5c0-a543fe6043d8)
 
 9/1 Monday
 
@@ -53,7 +54,6 @@ author_profile: true
 | 12:30 - 14:00    | Lunch                                   |                        |  |
 | 14:30 - 17:30    | Higher-order network theory     |Theoretical Lecture and Special Topic Discussion    | Yamir Moreno Vega, Pietro Traversa (Zaragoza)     |
 
-[TABLE_CHINA_SCHOOL.pdf](https://github.com/user-attachments/files/20944637/TABLE_CHINA_SCHOOL.pdf)
 
 
 
