@@ -45,7 +45,7 @@ author_profile: true
 
 | Time             | Content                                        |             Speakers                              |
 | --------         | ------                                    | ----------------------                            |
-| 9:00 - 12:00     | Spreading Dynamics                     | Alberto Aleta      |
+| 09:00 - 12:00     | Spreading Dynamics                     | Alberto Aleta      |
  
 [Afternoon] 
 
@@ -61,7 +61,7 @@ author_profile: true
 
 | Time             | Content                               |             Speakers                              |
 | --------         | ------                                    | ----------------------                            |
-| 9:00 - 12:00     | Practical Session on Dynamical Processes     | Marco Fernández da Silva , Junfeng Fan|
+| 09:00 - 12:00    | Practical Session on Dynamical Processes     | Marco Fernández da Silva , Junfeng Fan|
  
 [Afternoon] 
 
@@ -77,7 +77,7 @@ author_profile: true
 
 | Time             | Content                                   |             Speakers                              |
 | --------         | ------                                    | ----------------------                            |
-| 9:00 - 12:00     | Higher Order Networks                 | Yamir Moreno & Pietro Traversa         |
+| 09:00 - 12:00    | Higher Order Networks                 | Yamir Moreno & Pietro Traversa         |
  
 [Afternoon] 
 
