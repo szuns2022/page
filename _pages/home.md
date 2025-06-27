@@ -1,6 +1,6 @@
 ---
 permalink: /home/
-title: "Home"
+title: ""
 author_profile: true
 ---
 
