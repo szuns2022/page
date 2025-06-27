@@ -10,50 +10,79 @@ author_profile: true
 
 [Morning] 
 
-| Time             | Content                                 |       Subject          |             Speakers                             |
-| --------         | ------                                  | ---------------------- | ----------------------                           |
-| 08:30 - 09:00    | Opening Ceremony                        |                        | Wu Zongze, Wang Xiangrong (Shenzhen University)  |
-| 09:00 - 12:00    | Introduction to Advanced Networks       |Theoretical Lecture     | Alejandro Tejedor Cubero (Zaragoza)              |
-
+| Time             | Content                                 |             Speakers                             |
+| --------         | ------                                   | ----------------------                           |
+| 08:30 - 09:00    | Opening Ceremony                        | Wu Zongze, Wang Xiangrong  |
+| 09:00 - 12:00    | (Advanced)Introduction to Networks    | Alejandro Tejedor           |
+ 
 [Afternoon] 
 
-| Time             | Content                                 |       Subject          |             Speakers                             |
-| --------         |---------|----------------------  | ----------------------                           |
-| 12:30 - 14:00    | Lunch                                   |                        |                            |
-| 14:30 - 17:30    | Multi-layer network                     |Theoretical Lecture     | Yamir Moreno Vega (Zaragoza）                    |
+| Time             | Content                                |             Speakers                             |
+| --------         |---------| ----------------------                           |
+| 12:30 - 14:00    | Lunch                                         
+| 14:30 - 17:30    | MultilayerNetworks                       | Yamir Moreno                  |
 
 
 9/2 Tuesday
 
 [Morning] 
 
-| Time             | Content                                   |       Subject          |             Speakers                              |
-| --------         | ------                                    | ---------------------- | ----------------------                            |
-| 09:00 - 12:00    | Elements of data science and visualization|Lecture on Numerical Computation|Ariadna Fosch I Muntané, Pietro Traversa(Zaragoza)|
+| Time             | Content                                 |             Speakers                              |
+| --------         | ------                                    | ----------------------                            |
+| 09:00 - 12:00    | Elements of data science and visualization|Ariadna Fosch I Muntané, Junfeng Fan       |
  
 [Afternoon] 
 
-| Time             | Content                                 |       Subject            |             Speakers                             |
-| --------         | ------                                  | ----------------------   | ----------------------                           |
-| 12:30 - 14:00    | Lunch                                   |                          |  |
-| 14:30 - 17:30    | Communication Dynamics Theory Course    |Theoretical Lecture       | Alberto Aleta Casas (Zaragoza)     |
+| Time             | Content                                    |             Speakers                             |
+| --------         | ------                                     | ----------------------                           |
+| 12:30 - 14:00    | Lunch                                     |  |
+| 14:30 - 17:30    | First Presentationby Students       |   All |
 
 ---
 9/3 Wednesday
 
 [Morning] 
 
-| Time             | Content                                   |       Subject          |             Speakers                              |
-| --------         | ------                                    | ---------------------- | ----------------------                            |
-| 9:00 - 12:00     | Lecture on Dynamic Processes              |Lecture on Numerical Computation   | Marco Fernández da Silva, Pietro Traversa(Zaragoza)|
+| Time             | Content                                        |             Speakers                              |
+| --------         | ------                                    | ----------------------                            |
+| 9:00 - 12:00     | Spreading Dynamics                     | Alberto Aleta      |
  
 [Afternoon] 
 
-| Time             | Content                                 |       Subject          |             Speakers                             |
-| --------         | ------                                  | ---------------------- | ----------------------                           |
-| 12:30 - 14:00    | Lunch                                   |                        |  |
-| 14:30 - 17:30    | Higher-order network theory     |Theoretical Lecture and Special Topic Discussion    | Yamir Moreno Vega, Pietro Traversa (Zaragoza)     |
+| Time             | Content                                  |             Speakers                             |
+| --------         | ------                                 | ----------------------                           |
+| 12:30 - 14:00    | Lunch                                      |
+| 14:30 - 17:30    |   Free afternoon                       |     |
 
+---
+9/4 Thursday
 
+[Morning] 
 
+| Time             | Content                               |             Speakers                              |
+| --------         | ------                                    | ----------------------                            |
+| 9:00 - 12:00     | Practical Session on Dynamical Processes     | Marco Fernández da Silva , Junfeng Fan|
+ 
+[Afternoon] 
+
+| Time             | Content                                   |             Speakers                             |
+| --------         | ------                                  | ----------------------                           |
+| 12:30 - 14:00    | Lunch                                    |
+| 14:30 - 17:30    | Second Presentation by Students      |   All  |
+
+---
+9/5 Friday
+
+[Morning] 
+
+| Time             | Content                                   |             Speakers                              |
+| --------         | ------                                    | ----------------------                            |
+| 9:00 - 12:00     | Higher Order Networks                 | Yamir Moreno & Pietro Traversa         |
+ 
+[Afternoon] 
+
+| Time             | Content                                      |             Speakers                             |
+| --------         | ------                                 | ----------------------                           |
+| 12:30 - 14:00    | Lunch                                   |
+| 14:30 - 17:30    | Colloquium                                         |     |
 
