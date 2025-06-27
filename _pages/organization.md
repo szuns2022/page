@@ -1,6 +1,6 @@
 ---
 permalink: /organization/
-title: "Organization Introduction"
+title: "Organization"
 author_profile: true
 ---
 
@@ -10,13 +10,7 @@ Yamir Moreno (Zaragoza University)
 
 Xiangrong Wang (Shenzhen University)
 
-Hongyu Hu (Shenzhen University)
 
-Xin Yu (Shenzhen University)
-
-Jieyu Zhu (Shenzhen University)
-
-Hao Jiang (Shenzhen University)
 
 Sponsor:[shenzhen university](https://www.szu.edu.cn/)
 
