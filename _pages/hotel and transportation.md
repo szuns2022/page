@@ -33,3 +33,4 @@ Contact number:0755-88888778
 | Screening   room(windowless)                  | 358RMB    |
 | Charming    =  room                           | 408RMB    |
 
+![0202m1200090m0zykD4C0_R_600_400_R5_D](https://github.com/user-attachments/assets/7f545ed7-396b-4cfb-8cde-fff1b8c5fe31)
