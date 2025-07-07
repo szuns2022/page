@@ -9,3 +9,5 @@ author_profile: true
 3 The School will provide food, coffee breaks, and a welcome banquet.
 4 We expect participants to bring their laptops for the practical sessions.
 5 Please fill in the specific registration information on the [Tencent Questionnaire](https://wj.qq.com/s2/22867105/55df/).
+
+[点此填写注册表单](../register.html)
