@@ -26,11 +26,13 @@ Contact number:+86-755-8611111
 
 Address:1st floor,Beikeshang Building,No.59,Gaoxin South Ninth Avenue,Yuehai Subdistrict Nanshan District
 
+地址：南山区粤海街道高新南九道59号北科大厦一层
+
 Contact number:0755-88888778
 
+[Gaode Map Navigation](https://surl.amap.com/2RXTrd3hed2)
 
-
-If you have any questions about the hotel,plesase email:qiegan4184774@163.com
+If you have any questions about the hotel,plesase email:qiegan4184774@163.com,mark the subject of the email as "First Internet Frontier Symposium"
 
 <img width="313" alt="3f59fc48ade77d2ddd0fd0bb3c6af8c" src="https://github.com/user-attachments/assets/7e175844-9192-4307-8386-c5e392771422" />
 
