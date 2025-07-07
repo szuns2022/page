@@ -1,1 +1,86 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <title>注册表单</title>
+</head>
+<body>
+  <h2>注册信息填写</h2>
+
+  <div id="login-section">
+    <button onclick="loginWithGitHub()">使用 GitHub 登录</button>
+  </div>
+
+  <div id="form-section" style="display: none;">
+    <p>欢迎，<span id="username"></span>！请填写以下内容：</p>
+    <form id="reg-form">
+      <label>姓名：<input name="name" required /></label><br />
+      <label>邮箱：<input type="email" name="email" required /></label><br />
+      <label>自我介绍：<br />
+        <textarea name="intro" rows="5" cols="50"></textarea>
+      </label><br />
+      <button type="submit">提交注册</button>
+    </form>
+    <p id="msg"></p>
+  </div>
+
+  <script>
+    const clientId = 'Ov23liqejWO1JmeypiSN';
+    const repoOwner = 'szuns2022';
+    const repoName = 'page';
+
+    function loginWithGitHub() {
+      const redirectUri = 'https://authflow.js.org/callback.html';
+      const authUrl = `https://github.com/login/oauth/authorize?client_id=${clientId}&redirect_uri=${redirectUri}&scope=public_repo`;
+      window.location.href = authUrl;
+    }
+
+    async function checkAuth() {
+      const hash = window.location.hash;
+      const tokenMatch = hash.match(/access_token=([\w-]+)/);
+      if (!tokenMatch) return;
+
+      const accessToken = tokenMatch[1];
+      const user = await fetch('https://api.github.com/user', {
+        headers: { Authorization: `token ${accessToken}` }
+      }).then(res => res.json());
+
+      document.getElementById('username').innerText = user.login;
+      document.getElementById('form-section').style.display = 'block';
+      document.getElementById('login-section').style.display = 'none';
+
+      document.getElementById('reg-form').onsubmit = async function (e) {
+        e.preventDefault();
+        document.getElementById('msg').innerText = '正在提交中...';
+
+        const name = this.name.value;
+        const email = this.email.value;
+        const intro = this.intro.value;
+
+        const res = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/issues`, {
+          method: 'POST',
+          headers: {
+            Authorization: `token ${accessToken}`,
+            Accept: 'application/vnd.github+json'
+          },
+          body: JSON.stringify({
+            title: `注册：${name}`,
+            body: `**邮箱**: ${email}\n\n**自我介绍**:\n${intro}`,
+            labels: ['register']
+          })
+        });
+
+        if (res.ok) {
+          document.getElementById('msg').innerText = '🎉 注册成功！';
+          this.reset();
+        } else {
+          document.getElementById('msg').innerText = '❌ 提交失败，请稍后重试。';
+        }
+      };
+    }
+
+    window.onload = checkAuth;
+  </script>
+</body>
+</html>
 
