@@ -19,6 +19,7 @@ Contact number:+86-755-8611111
 
 
 ------
+------
 
 [XiWan Hotel](https://hk.trip.com/hotels/shenzhen-hotel-detail-81065413/shenzhen-seaone-hotel/), 400m to conference venue. Around 400RMB (exclude breakfirst) per night.
 
