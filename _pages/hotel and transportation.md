@@ -29,9 +29,9 @@ Address:1st floor,Beikeshang Building,No.59,Gaoxin South Ninth Avenue,Yuehai Sub
 
 地址：南山区粤海街道高新南九道59号北科大厦一层
 
-Contact number:0755-88888778
-
 [Gaode Map Navigation](https://surl.amap.com/2RXTrd3hed2)
+
+Contact number:0755-88888778
 
 If you have any questions about the hotel,plesase email:qiegan4184774@163.com,mark the subject of the email as "First Internet Frontier Symposium"
 
