@@ -12,6 +12,8 @@ author_profile: true
 
 4 We expect participants to bring their laptops for the practical sessions.
 
-5 Please fill in the specific registration information on the [Tencent Questionnaire](https://wj.qq.com/s2/23091275/73ec/).
+5 We have helped customize the types of hotels. If you prefer to make your own selection, please navigate to the "hotel" interface.
+
+6 Please fill in the specific registration information on the [Tencent Questionnaire](https://wj.qq.com/s2/23091275/73ec/).
 
 
