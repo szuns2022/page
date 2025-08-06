@@ -6,7 +6,7 @@ permalink: /hotel and transportation/
 
 Welcome to the Network Science Conference organized by Shenzhen University! To facilitate your smooth arrival at the venue and your hotel check-in, we have specially provided you with the following detailed hotel transportation information.
 
-[Hamps Hotel](http://www.hamps.cn/), 800m to conference venue. around 550RMB (include breakfirst) per night.
+[Hamps Hotel](http://www.hamps.cn/), 800m to conference venue.
 
 Address:No.3818,Bai Shi Road,Nanshan District
 
@@ -21,7 +21,7 @@ Contact number:+86-755-8611111
 ------
 ------
 
-[XiWan Hotel](https://hk.trip.com/hotels/shenzhen-hotel-detail-81065413/shenzhen-seaone-hotel/), 400m to conference venue. Around 400RMB (exclude breakfirst) per night.
+[XiWan Hotel](https://hk.trip.com/hotels/shenzhen-hotel-detail-81065413/shenzhen-seaone-hotel/), 400m to conference venue.
 
 
 
