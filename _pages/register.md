@@ -12,7 +12,7 @@ author_profile: true
 
 4 We expect participants to bring their laptops for the practical sessions.
 
-5 We have helped customize the types of hotels(xiwan 400 yuan per night/hamps 550 yuan per night)，You just need to provide your [personal information](https://wj.qq.com/s2/23178801/896d/) .If you prefer to make your own selection, please navigate to the "hotel" interface.
+5 We have helped customize the types of hotels(xiwan about 400 yuan per night/hamps about 550 yuan per night)，You just need to provide your [personal information](https://wj.qq.com/s2/23178801/896d/) .If you prefer to make your own selection, please navigate to the "hotel" interface.
 
 6 Please fill in the specific registration information on the [Tencent Questionnaire](https://wj.qq.com/s2/23091275/73ec/).
 
